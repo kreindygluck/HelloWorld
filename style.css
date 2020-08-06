@@ -1,0 +1,29 @@
+*{
+    font-family: fantasy;
+    background-color: #fcd5ce;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    height: 200px;
+}
+
+p{
+    font-size: 60px;
+    position: relative;
+    bottom: 100px;
+}
+a{
+    position: relative;
+    bottom: 60px;
+    font-size: 50px;
+    width: 200px;
+    padding: 50px;
+    color: black;
+}
+
+body{
+    /* background-image: url("img/backgroundsmaller.jpg"); */
+}
+

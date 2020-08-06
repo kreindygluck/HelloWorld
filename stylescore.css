@@ -1,0 +1,33 @@
+*{
+    font-family: fantasy;
+    background-color: #fcd5ce;
+    text-align: center;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 100px;
+}
+
+#message{
+    font-weight: lighter;
+    font-size: 25px;
+    font-family: 'Courier';
+    position: relative;
+    bottom: 35px;
+}
+
+#intro{
+  font-weight: bold;
+  position: relative;
+  bottom: 15px;
+  font-size: 55px
+}
+
+#writtenby{
+  font-size: 20px;
+  position: relative;
+  bottom: 35px;
+  font-weight: lighter;
+}
+

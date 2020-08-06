@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier';
+    background-color: #FCD5CE;
+    text-align: center;
+}
+
+h4{
+    font-size: 28px;
+}
+
+.options{
+    font-size: 22px;
+}
+
+
+.submit{
+    font-size: 28px;
+    color: black;
+    position: relative;
+    top: 40px;
+}
+
+#space{
+    position: relative;
+    top: 50px;
+    visibility: hidden;
+}
